@@ -1,5 +1,7 @@
 # <img src="zonky.jpg" height="100"> Embedded Database
 
+## Test
+
 ## Introduction
 
 The primary goal of this project is to make it easier to write Spring-powered integration tests that rely on `PostgreSQL`, `MSSQL`, `MySQL` or `MariaDB` databases. This library is responsible for creating and managing isolated embedded databases for each test class or test method, based on a test configuration.
